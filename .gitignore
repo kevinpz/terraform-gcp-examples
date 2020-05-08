@@ -1,0 +1,9 @@
+# PyCharm
+.idea
+
+# Terraform
+.terraform
+*terraform.tfstate*
+
+# GCP authent
+*account.json
